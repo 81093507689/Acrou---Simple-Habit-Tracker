@@ -1,0 +1,30 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQDropDownTextField (1.1.1)
+  - IQKeyboardManagerSwift (6.2.0)
+  - VACalendar (1.3)
+
+DEPENDENCIES:
+  - FMDB
+  - IQDropDownTextField
+  - IQKeyboardManagerSwift
+  - VACalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - IQDropDownTextField
+    - IQKeyboardManagerSwift
+    - VACalendar
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQDropDownTextField: 3d2e5728a2b83ff5dbb14cb9b497a80005124cbe
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  VACalendar: 3e5a001cbf437ebed2bcfc747f3187e555d65175
+
+PODFILE CHECKSUM: 5c8f91f1033cf297356621f0ea17456c58e10d13
+
+COCOAPODS: 1.5.3
